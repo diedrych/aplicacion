@@ -1,0 +1,72 @@
+
+h1{
+    font-family: 'Lobster', cursive;
+    margin: 15px 0;
+    color: white;
+    font-size: 380.5%;
+
+}
+
+.transparencia{
+    background-color: rgba(255,255,255,0.5);
+}
+
+.tipoL{
+    font-family: 'Lobster', cursive;
+}
+
+.fondoSesion{
+    background: url(imagenes/fondoSesion.jpg) no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}  
+
+.fondotitulo{
+      background-color:DarkTurquoise ;
+}
+
+.fondo2{
+     background: url(imagenes/fondo1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+  
+.tipof{
+    font-family: 'Lobster', cursive;
+    font-size:medium;
+}
+  ////////////////////////////////////////////////////////
+
+
+
+.tipo{
+   font-family: 'Lobster', cursive;
+   margin: 15px 0;
+   color: DodgerBlue;
+   font-size: 130.5%;
+}
+
+
+
+
+
+.tipo2{
+    font-family: heveltica;
+}
+
+
+
+
+.footer{
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+}
